@@ -1,2 +1,4 @@
 *.pt
 *.zip
+*/flower_model_bit_0.96875/*
+*.weights.h5
